@@ -10,6 +10,7 @@ namespace ConsoleApp5_1001_2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("dev");
         }
     }
 }
